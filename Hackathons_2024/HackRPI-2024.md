@@ -38,19 +38,19 @@
 - Another project, [EcoVision](https://devpost.com/software/recircle-ot57su), built an app for users to upload images of items around them, giving tips for how they can be repurposed or recycled, or can be used on video in something like a waste management facility to boost recycling efficiency
 ## Event Photos
 
-| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_checkin.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_stickers.png" width="100%" height="auto"> |
+| <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_checkin.png" width="100%" height="auto"> | <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_stickers.png" width="100%" height="auto"> |
 |:--:|:--:|
 | <b> Our check in table! </b>| <b> The collection of stickers available to hackers </b> |
 
-| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_opening.png" width="100%" height="auto"> | <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_lunch.png" width="100%" height="auto"> |
+| <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_opening.png" width="100%" height="auto"> | <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_lunch.png" width="100%" height="auto"> |
 |:--:|:--:|
 | <b> Opening ceremony </b> | <b> Lunch set out before the rush </b> |
 
-| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_present.pngg" width="100%" height="auto"> |
+| <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_present.png" width="100%" height="auto"> |
 |:--:|
 | <b> Hackers presenting their hard work </b>|
 
-| <img src="https://raw.githubusercontent.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/patch-1/Hackathons_2024/images/hackrpi24_winner.png" width="100%" height="auto"> |
+| <img src="https://github.com/Leftykap/GitHub-Education-Hackathon-Grant-Fund-2023/blob/main/Hackathons_2024/images/hackrpi24_winner.png" width="100%" height="auto"> |
 |:--:|
 | <b> The 1st place winners collecting their prize! </b>|
 
