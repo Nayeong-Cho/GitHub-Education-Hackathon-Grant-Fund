@@ -1,4 +1,4 @@
-# HackRPI 2023
+# HackRPI 2024
  - 11th Annual Hackathon
  - Nov. 9th - Nov 10th, 2024
  - Rensselaer Polytechnic Institute
@@ -11,6 +11,7 @@
 - We also had Quantum Cybersecurity and Quantum Algorithm Dev workshops
 - We had a total of 15 Workshops at the hackathon overall, including chats with company sponsors, fun evens like sticker making, and tech stack guides
 - Github was included and taught at the first workshop of the day, as an essential part of our recommended tech stack
+- This year we also worked with MLH to host a TechTogether meetup for our first ever time, allowing underrepresented genders in technology to meetup and talk about their experiences. Our participants thoroughly enjoyed it, and we look forward to continuing to host these meetups in our future events
 
 ## Event Metrics 
 
@@ -56,7 +57,7 @@
 
 ## What’s Next?
 - HackRPI 11 went great, and we are excited to get back to work for HackRPI 12 next year!
-- Our plans our to keep trying to grow our Hackathon, and focusing even more on new hackers
+- Our plans are to keep trying to grow our Hackathon, and focusing even more on new hackers
 - We hope to be able to expand our reach even further, getting more attendees from outside of the RPI community
 - HackRPI 12 is being planned for November 2025!
 - @hack.rpi
