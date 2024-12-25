@@ -67,11 +67,23 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 ## Event Photos
 
 - We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
+- Please include pictures and/or video of your event highlights! Use the format below:
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_GroupPicture.JPG?raw=true" width="auto" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| **MadHacks Group Photo** |
+
+| <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_Organizers.jpg?raw=true" width="50%" height="auto"> | <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_Checkin.jpg?raw=true" width="50%" height="auto"> |
+|:--:|:--:|
+| **MadHacks Organizers & Volunteers** | **Check-In** |
+
+| <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_WebDevWorkshop.jpg?raw=true" width="50%" height="auto"> | <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_Judging.jpg?raw=true" width="50%" height="auto"> |
+|:--:|:--:|
+| **WebDev Workshop** | **Judging** |
+
+| <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_FirstPlace.jpg?raw=true" width="33%" height="auto"> | <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_SecondPlace.jpg?raw=true" width="33%" height="auto"> | <img src="https://github.com/ChristopherGottwaldt/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/MadHacks_ThirdPlace.jpg?raw=true" width="33%" height="auto"> |
+|:--:|:--:|:--:|
+| **First Place** | **Second Place** | **Third Place** |
 
 ## What’s Next?
 - We were so grateful to have so many hackers this year, and we're looking forward to making MadHacks even better in the coming years! <br>
