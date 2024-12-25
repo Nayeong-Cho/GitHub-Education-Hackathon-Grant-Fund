@@ -20,7 +20,7 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|283|{first time attendees}|[55 Projects!](https://madhacks.devpost.com/project-gallery)| 
+|283|161[55 Projects!](https://madhacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
@@ -37,13 +37,14 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+|0|13|10|190|53|
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+|28|250|1|4|
+
 
 ## Impact of GitHub Grant
 - xHow did you use the grant funds? <br>
