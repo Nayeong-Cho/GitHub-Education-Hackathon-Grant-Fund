@@ -46,21 +46,22 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 |{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
+- xHow did you use the grant funds? <br>
 - The GitHub Grant was instrumental in helping us make the experience enjoyable for our hackers. We used the grant to cover the cost of our snacks, drinks, and eating supplies for our event. We had to make sure that our ~300 participants could have the power to code through the whole day (and especially the night) to make a cool project! The GitHub Grant covered our Costco run where we got lots of water, soda, snacks, plates, and trash bags to make the event possible. We had dedicated meals for everyone throughout the daytime, but these snacks were necessary in helping sustain everyone through the night when official meals weren't happening. 
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+- xHow did the funds positively affect the outcomes of your event participants? <br>
+- x(Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br>
+- xWhat were some of the coolest projects at your event? <br>
 - These were our top 3-placing projects:
-- MomentScape, a virtual reality project that allows you to step into a 3D scene created from a 2D image to relive lost moments!
-- MADSHELL, a terminal-based AI helper that assists you in using the correct commands as well as helping you code!
-- [Detective Mole]([url](https://devpost.com/software/detective-mole)), a project that enables users to uplaod an image of a mole to determine if it's benign or atypical!
-- See other amazing projects here in our project gallery!   
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+- [MomentScape](https://devpost.com/software/memoryscape-iaj7yz), a virtual reality project that allows you to step into a 3D scene created from a 2D image to relive lost moments!
+- [MADSHELL](https://devpost.com/software/madshell), a terminal-based AI helper that assists you in using the correct commands as well as helping you code!
+- [Detective Mole](https://devpost.com/software/detective-mole), a project that enables users to uplaod an image of a mole to determine if it's benign or atypical!
+- See other amazing projects here in our [project gallery](https://madhacks.devpost.com/project-gallery)!   
+- xWe also want to see how hackers used GitHub at the event <br>
+- Our teams used GitHub to create their projects with their team members, and we had them link to their repository to evaluate their submissions. GitHub makes sharing, collaborating, and developing code incredibly efficient, so we have our teams use it for MadHacks.
+- xWhat made them special? _Include the link to their website, Devpost or video._
 
 ## Event Photos
 
