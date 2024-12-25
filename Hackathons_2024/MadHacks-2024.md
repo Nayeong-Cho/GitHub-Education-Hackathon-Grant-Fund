@@ -8,21 +8,19 @@
 ## Event Summary
 
 - What made your hackathon special or unique? <br> 
-- Tell us about some of the cool features, mini-events, or workshops that your organizers put on. <br>
 - We had a number of workshops hosted by our organizers, and some hosted by our sponsors! We had a welcome workshop that helped hackers with getting started/planning their
 projects, a workshop on using GitHub for devoloping as a team, and a website workshop put on by Girls Who Code! Then we had a React workshop,
 and finished off the night with a late-night estimathon. Our sponsors also ran a few workshops with prizes to help our hackers showcase their skills.
-- How was **GitHub** featured at your event? <br>
-- Our organizers hosted a workshop around developing and sharing code using GitHub. We had our participants use GitHub to host their code for their project submissions.
+- Our organizers hosted a workshop around developing and sharing code using GitHub. We had our participants use GitHub to host their code for their project submissions, and there was a GitHub Copilot workshop too.
 - *We’d love to see pictures if you have them!* <br>
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable.
-- We had over 1000 applicants, but we only had room for 300 participants, so we 
+- We had over 1000 applicants, but we only had room for 300 participants due to our building's size, so we could only admit 300 people. In total, we had a bit over 250 hackers check in on the day of the event! We had thousands of dollars in prizes as well, and we had 10 teams win prizes.
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{your attendee count}|{how many new hackers did you have?}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|255|{first time attendees}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
