@@ -16,17 +16,23 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 
 ## Event Metrics 
 > Feel free to include any other metrics that you think may be important or applicable.
-- We had over 1000 applicants, but we only had room for 300 participants due to our building's size, so we could only admit 300 people. In total, we had a bit over 250 hackers check in on the day of the event! We had thousands of dollars in prizes as well, and we had 10 teams win prizes.
+- We had over 1000 applicants, but we only had room for 300 participants due to our building's size. In total, we had 283 hackers at the event! We had thousands of dollars in prizes as well, and we had 10 teams that won a prize.
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|255|{first time attendees}|[{your project count & embedded project submission page link}](https://abstracthacks.devpost.com/project-gallery)| 
+|283|{first time attendees}|[55 Projects!](https://madhacks.devpost.com/project-gallery)| 
 
 ## Tech Impact / Diversity 
 
 ### Tell us about your hacker demographics
- - Who was the target audience for your event? <br> 
+ - Who was the target audience for your event? <br>
+ - The target audience of our event was people interested in coding that were eager to learn a lot and make a project!
  - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+ - This is what gender our hackers identified as, by the numbers:
+   - 186 Male (66%)
+   - 86 Female (30%)
+   - 8 Non-Binary (3%)
+   - 3 Undisclosed (1%)
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
@@ -41,13 +47,18 @@ and finished off the night with a late-night estimathon. Our sponsors also ran a
 
 ## Impact of GitHub Grant
 - How did you use the grant funds? <br>
+- The GitHub Grant was instrumental in helping us make the experience enjoyable for our hackers. We used the grant to cover the cost of our snacks, drinks, and eating supplies for our event. We had to make sure that our ~300 participants could have the power to code through the whole day (and especially the night) to make a cool project! The GitHub Grant covered our Costco run where we got lots of water, soda, snacks, plates, and trash bags to make the event possible. We had dedicated meals for everyone throughout the daytime, but these snacks were necessary in helping sustain everyone through the night when official meals weren't happening. 
 - How did the funds positively affect the outcomes of your event participants? <br>
 - (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
 
 ## Top Projects
 
 - What were some of the coolest projects at your event? <br>
-- Our top 3-placing projects were MomentScape, a virtual reality project that allows you to relive 
+- These were our top 3-placing projects:
+- MomentScape, a virtual reality project that allows you to step into a 3D scene created from a 2D image to relive lost moments!
+- MADSHELL, a terminal-based AI helper that assists you in using the correct commands as well as helping you code!
+- [Detective Mole]([url](https://devpost.com/software/detective-mole)), a project that enables users to uplaod an image of a mole to determine if it's benign or atypical!
+- See other amazing projects here in our project gallery!   
 - We also want to see how hackers used GitHub at the event <br>
 - What made them special? _Include the link to their website, Devpost or video._
 
