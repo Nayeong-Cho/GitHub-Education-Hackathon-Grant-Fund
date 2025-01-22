@@ -37,17 +37,13 @@ The target for this hackathon was women and non-binary students.
 - What were some of the coolest projects at your event? <br> Crysense! They won the overall prize for their creativity and innovation!
 - What made them special? <br> They worked on a project to help the primary demographic of this hackathon which is important! Here is the link to their project: https://devpost.com/software/crysense
 
-| <img src="https://drive.google.com/file/d/1fdspAiQ0paKmnXNj7xxRKhaU8DNgpBEy/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/WiNGHacks_winners.jpg" width="500" height="auto"> |
 |:--:|
 | <b> The winners! </b>|
 
 ## Event Photos
 
-| <img src="https://drive.google.com/file/d/1KldcUTKuEufM-QQMUogj3CXbiQfTi3Iv/view?usp=sharing" width="500" height="auto"> |
-|:--:|
-| <b> Our sponsors! </b>|
-
-| <img src="https://drive.google.com/file/d/1BhjbiBFGwhFstS58m_7FJWfTaAiNr1sP/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2024/images/WiNGHacks_Team.jpg" width="500" height="auto"> |
 |:--:|
 | <b> The team! </b>|
 
