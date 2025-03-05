@@ -43,9 +43,9 @@
  - Education University Level: 1st year: 40, 2nd year: 58, 3rd year: 48, 4th year: 26, Masters: 1
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | South Asian|  White  |
-|---------------:|--------------:|------------:|---------:|--------:|--------:|--------:|--------:|------|----------: |--------:|
-|   0            |      0        |            13                    |         2                   | 69   |    55      |    14   |    
+| Native American / Alaskan Native | Black / African American | Hispanic / Latinx | Asian | South Asian|  White  |
+|---------------:|--------------:|------------:|---------:|--------:|--------:|
+|      0        |            13                    |         2                   | 69   |    55      |    14   |    
 
 
 ### Where were your hackers from?
