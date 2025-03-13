@@ -1,4 +1,4 @@
-# DUWiT Hacks 1
+# DUWiT Hacks 1 
  - **March 1st - 2nd 2025** 
  - **Durham University Women in Tech (Durham University)**
  - **Durham, England**  
@@ -69,11 +69,11 @@ Link to their devpost: https://github.com/maahma/duwit-hacks-25
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src=" <img src="https://lh3.googleusercontent.com/pw/AP1GczNrXoYCLXxu8Ogdq5nRvjC9omtRBs1WpJD-Q2lvbYv3J4O8kMMd7vFq1zw7CfY9RR65ZvNoFOh36yQ8gKNw_JoDvaeRpMLJe3x08onbfjyXIOCjO5FZaV5DgX-nAOx3FEAhJDUy4KR2GG-vZshzdHqI=w1386-h924-s-no?authuser=0" /> </a>" width="500" height="auto"> |
+| <img src="https://lh3.googleusercontent.com/pw/AP1GczNrXoYCLXxu8Ogdq5nRvjC9omtRBs1WpJD-Q2lvbYv3J4O8kMMd7vFq1zw7CfY9RR65ZvNoFOh36yQ8gKNw_JoDvaeRpMLJe3x08onbfjyXIOCjO5FZaV5DgX-nAOx3FEAhJDUy4KR2GG-vZshzdHqI=w1386-h924-s-no?authuser=0" /> </a>  |
 |:--:|
 | <b> Describing the aim of DUWiT Hacks in the opening ceremony.</b>|
 
-| <img src="<img src="https://lh3.googleusercontent.com/pw/AP1GczM5PjNdDSqFsETrxy2JmDw-lMUzaYXHQ9bjinrQdi62d2YX_D_sL50ZTTlIz9lVyw-gTxA8Vl-Vw7ZYNB8DaCp-m5IG6CVF7LAPabMAZF5B0mp66pqdBwb_O3vdMjYxbImnu8GLUsextl5Df9emqLuM=w1646-h924-s-no?authuser=0" /> </a>" width="500" height="auto"> |
+| <img src="https://lh3.googleusercontent.com/pw/AP1GczM5PjNdDSqFsETrxy2JmDw-lMUzaYXHQ9bjinrQdi62d2YX_D_sL50ZTTlIz9lVyw-gTxA8Vl-Vw7ZYNB8DaCp-m5IG6CVF7LAPabMAZF5B0mp66pqdBwb_O3vdMjYxbImnu8GLUsextl5Df9emqLuM=w1646-h924-s-no?authuser=0" /> </a>  |
 |:--:|
 | <b> A group of hackers working together.</b>|
 
