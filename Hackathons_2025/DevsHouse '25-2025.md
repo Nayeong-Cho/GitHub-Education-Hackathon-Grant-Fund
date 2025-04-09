@@ -14,8 +14,7 @@ develop innovative solutions across six tracks, including FinTech, AR/VR, Blockc
 - We had a seperate booth for GitHub, where the campus expert had set up fun activites and swags for participants.
 - We had an evening session by both Kaiwalya and Smruthi - our MLH Coach and GitHub Campus Expert. Where they did the Octacat design challenge, WikiSpeedRun etc.
 - Also all the projects submission and doubt clarification was done for GitHub.
-- The hackathon provided a 
-unique opportunity to work with cutting-edge technology, refine problem-solving skills, and 
+- The hackathon provided a unique opportunity to work with cutting-edge technology, refine problem-solving skills, and 
 network with industry professionals and like-minded peers. 
 - [Photographs](https://drive.google.com/drive/folders/1b1Ml0gem0xlLa-Yn9A1KGSPkAv_iRM5_)
 
@@ -46,7 +45,7 @@ network with industry professionals and like-minded peers.
 
 - Due to unexpected delays, we faced challenges in accessing the GitHub Grant funds on time. Although the funds were unavailable as anticipated, the event required financial support in key areas. Once the grant funds are received, we plan to reimburse them primarily to cover expenses which primarily boosted hacker's experiance as providing custom swags like DevsHouse keychain, notepads. Mementos and swags for judges. Some snacks and refreshments for the participating hackers and judges. We also printed GitHub standees and event banner to display our sponsors.
 - These elements were essential to enhance the overall event experience and ensure its proper documentation. We had carefully planned to allocate the funds for these purposes to deliver a successful and memorable hackathon for everyone involved.
-- We would like to thank GitHub doe the grants as participants enjoyed it a lot and were neve empty stomach. And stickers and swags were just cherry on the top to enhance their hacking experience.
+- We would like to thank GitHub for the grants. Participants enjoyed the hackathon, hospitality, swags a lot and were never empty stomach. And stickers and swags were just cherry on the top to enhance their hacking experience.
 
 ## Top Projects
 
