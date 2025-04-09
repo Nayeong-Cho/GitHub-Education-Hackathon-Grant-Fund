@@ -23,7 +23,7 @@ network with industry professionals and like-minded peers.
 
 | Attendees | Projects|
 |---------------:|------------:|
-|193|45|[{https://devshouse25.devfolio.co/projects}]| 
+|193|[45](https://devshouse25.devfolio.co/projects)| 
 
 ## Tech Impact / Diversity 
 
@@ -32,24 +32,28 @@ network with industry professionals and like-minded peers.
  - From the Registraion details we had around Male (73.94%) , Female (25.48%), Non-binary (0.03%), Prefered not say (0.29%)
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+| Asian |
+|---------------:
+|193|
 
 
 ### Where were your hackers from?
-| Asia Pacific | North America | Europe / UK | Other |
-|---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
+| Asia Pacific |
+|---------------:
+|193|
 
 ## Impact of GitHub Grant
-- How did you use the grant funds? <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
-- (Be as detailed as possible! Being able to track the impact of these funds will go a long way in ensuring the program's longevity.) 
+
+- Due to unexpected delays, we faced challenges in accessing the GitHub Grant funds on time. Although the funds were unavailable as anticipated, the event required financial support in key areas. Once the grant funds are received, we plan to reimburse them primarily to cover expenses which primarily boosted hacker's experiance as providing custom swags like DevsHouse keychain, notepads. Mementos and swags for judges. Some snacks and refreshments for the participating hackers and judges. We also printed GitHub standees and event banner to display our sponsors.
+- These elements were essential to enhance the overall event experience and ensure its proper documentation. We had carefully planned to allocate the funds for these purposes to deliver a successful and memorable hackathon for everyone involved.
+- We would like to thank GitHub doe the grants as participants enjoyed it a lot and were neve empty stomach. And stickers and swags were just cherry on the top to enhance their hacking experience.
 
 ## Top Projects
 
 - What were some of the coolest projects at your event? <br> 
+     - [GeneForge - Your All-in-One Lab Assistant for Next-Gen Gene Editing!](https://devfolio.co/projects/geneforge-66ff)
+    - [PORTABLE CYBERDECK - An offline tactical terminal that fuses radio frequency awareness with spatial vision. With a built-in RF scanner (RTL-SDR), depth-sensing camera, and a custom keyboard — all powered by Rasberry Pi.](https://devfolio.co/projects/portable-cyberdeck-62e0)
+    - [SaveMe - This protocol addresses key Web3 security challenges, primarily protecting users from rug pulls and malicious activities. It offers real-time anomaly detection to identify potential threats, coupled with an automatic self-destruct mechanism to safeguard assets.](https://devfolio.co/projects/saveme-d456)
 - We also want to see how hackers used GitHub at the event <br>
 - What made them special? _Include the link to their website, Devpost or video._
 
