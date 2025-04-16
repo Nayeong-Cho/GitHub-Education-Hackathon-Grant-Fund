@@ -1,4 +1,4 @@
-# {WEHack 2025}
+# {WEHack 2025} 
 > Provide a description of your event, including but _not_ limited to: <br>
  - **April 5th to 6th, 2025** 
  - **WEHack at the University of Texas at Dallas**
