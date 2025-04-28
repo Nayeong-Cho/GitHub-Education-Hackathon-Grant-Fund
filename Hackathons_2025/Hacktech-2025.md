@@ -6,7 +6,8 @@ Hacktech is an intercollegiate hackathon hosted by the California Institute of T
 Hacktech was the first major west-coast hackathon, and this is the 11-th iteration! This was also the first fully in-person hackathon hosted by Caltech since the COVID-19 pandemic. Our hackathon featured three tracks: 
 Healthcare, Sustainability, and Finance/Data Analytics. We hosted the Github Copilot workshop, held by our friends over at MLH. We also had two fantastic keynote speakers: 
 - Professor Anima Anandkumar. Bren Professor of Computing at Caltech, former Senior Director of ML Research at NVIDIA, and TIME 100 Impact Award recipient. 
-- Kip Thorne. Former Feynman Professor of Theoretical Physics at Caltech (until 2009), Nobel Laureatte, and consultant for the famous movies Oppenheimer and Interstellar. 
+- Kip Thorne. Former Feynman Professor of Theoretical Physics at Caltech (until 2009), Nobel Laureatte, and consultant for the famous movies Oppenheimer and Interstellar.
+
 Github played a major role in helping our participants collaborate in a shared codespace, and we requested that the participants share their repositories in the submission tool so that we could take a look at their work as well!
 
 ## Event Metrics 
@@ -21,14 +22,10 @@ Thie event received 2400+ applicants, from which we selected ~400 to attend our 
 ### Tell us about your hacker demographics
 Our event was targetted towards university students of all levels of experience and background. We accepted university students from all over the country. 
 
- - Who was the target audience for your event? <br> 
- - What does the diversity breakdown look like? (Include the percentage of hackers who identify as female, non-binary or other) <br>
+In total, it appears that 62.8% of our participants identify as male, 33.2% of our participants identify as female, 0.78% of our participants identified as non-binary, and the remaining 3.2% "Prefer not to say". 
 
 ### What race & ethnicities did your hackers identify as?
-| Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|---------------:|--------------:|------------:|---------:|--------:|
-|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|{# of hackers}|
-
+Unfortunately, we did not collect the this data from our participants. 
 
 ### Where were your hackers from?
 Our hackers were all US university students. 
