@@ -1,4 +1,4 @@
-# {QWER Hacks 2025}
+# {QWER Hacks 2025} 
 > Provide a description of your event, including but _not_ limited to: <br>
  - **February 1-2** 
  - **UCLA / Society of Women Engineers @ UCLA**
@@ -35,11 +35,11 @@ Check our more projects on our Project Gallery!
 
 ## Event Photos
 
-| <img src="https://postimg.cc/gwRst5B1" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/QWERHacks_hackers.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Hackers during our critical thinking workshop!</b>|
 
-| <img src="https://postimg.cc/MngtDxty" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/QWERHacks_speakers.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Our social impact speakers! </b>|
 
