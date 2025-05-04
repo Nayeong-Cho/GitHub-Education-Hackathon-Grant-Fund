@@ -53,15 +53,15 @@ We did not collect the high schoolers' race data
 |:--:|
 | <b> Another group of hackers pitching! </b>|
 
-| <img src="https://www.sprouthacks.ca/event/IMG_1895.JPG" width="500" height="auto"> |
+| <img src="https://www.sprouthacks.ca/event/IMG_1895.jpg" width="500" height="auto"> |
 |:--:|
 | <b> A workshop from MLH Rep Kevin! </b>|
 
-| <img src="https://www.sprouthacks.ca/event/IMG_1851.JPG" width="500" height="auto"> |
+| <img src="https://www.sprouthacks.ca/event/IMG_1851.jpg" width="500" height="auto"> |
 |:--:|
 | <b> React workshop! </b>|
 
-| <img src="https://www.sprouthacks.ca/event/IMG_1771.JPG" width="500" height="auto"> |
+| <img src="https://www.sprouthacks.ca/event/IMG_1771.jpg" width="500" height="auto"> |
 |:--:|
 | <b> Keynote from MP Mike Morrice! </b>|
 
