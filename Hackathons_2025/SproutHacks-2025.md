@@ -1,5 +1,4 @@
 # SproutHacks
-> Provide a description of your event, including but _not_ limited to: <br>
  - **February 28 - March 2, 2025** 
  - **SproutHacks**
  - **Canada, Ontario, Waterloo**  
