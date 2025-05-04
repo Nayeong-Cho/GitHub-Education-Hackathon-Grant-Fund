@@ -17,7 +17,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|75|30+|[{your project count & embedded project submission page link}](https://sprouthacks.devpost.com/)| 
+|75|30+|https://sprouthacks.devpost.com/| 
 
 ## Tech Impact / Diversity 
 
@@ -47,19 +47,24 @@ We did not collect the high schoolers' race data
 ## Event Photos
 | <img src="https://www.sprouthacks.ca/event/IMG_1956.JPG" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers pitching! </b>|
+| <b> A group of hackers pitching! </b> |
+
 | <img src="https://www.sprouthacks.ca/event/IMG_1945.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Another group of hackers pitching! </b>|
+
 | <img src="https://www.sprouthacks.ca/event/IMG_1895.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A workshop from MLH Rep Kevin! </b>|
+
 | <img src="https://www.sprouthacks.ca/event/IMG_1851.JPG" width="500" height="auto"> |
 |:--:|
 | <b> React workshop! </b>|
+
 | <img src="https://www.sprouthacks.ca/event/IMG_1771.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Keynote from MP Mike Morrice! </b>|
+
 | <img src="https://www.sprouthacks.ca/event/IMG_1742.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hackers hanging out! </b>|
