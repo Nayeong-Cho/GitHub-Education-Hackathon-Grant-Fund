@@ -32,28 +32,40 @@ We did not collect the high schoolers' race data
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|0|75|0|{0|
+|0|75|0|0|
 
 ## Impact of GitHub Grant
 - Grant funds were instrumental in purchasing food, swag and insurance for our event. We were able to utilize the funds to purchase better meals and more food overall for our hackers, which was very important and helped make us more flexible, helping us cater to hackers' needs during the first weekend of Ramadan. The funds will also aid us in increasing our flexibility in purchasing and shipping our prizes due to tariffs. <br>
-- How did the funds positively affect the outcomes of your event participants? <br>
+- We were able to provide high quality food and cater to all participants' restrictions, including those that accidentally weren't disclosed during signup. We also provided swag, tshirts, snacks, and a great prize pool. <br>
 
 ## Top Projects
 
-- What were some of the coolest projects at your event? <br> 
-- We also want to see how hackers used GitHub at the event <br>
-- What made them special? _Include the link to their website, Devpost or video._
+- [EntryVision](https://devpost.com/software/entryvision): an amazing hardware-software project, using AI to detect individual faces, and opening an electromagnetic lock dependant on face detected. <br>
+- [BlazeShield](https://devpost.com/software/blazesshield-fire-vs-fire): an 1000 line complex python algorithm to predict wildfires, built by a solo hacker <br>
+- [Therapy with LeBron](https://devpost.com/software/therapy-with-lebron): the greatest hackathon project to ever be completed <br>
+- GitHub was used as a mandatory version control software by all teams, which used its collaboritive software to build more efficiently <br>
 
 ## Event Photos
-
-- We want to see how great your event was! <br>
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://www.sprouthacks.ca/event/IMG_1956.JPG" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> A group of hackers pitching! </b>|
+| <img src="https://www.sprouthacks.ca/event/IMG_1945.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Another group of hackers pitching! </b>|
+| <img src="https://www.sprouthacks.ca/event/IMG_1895.JPG" width="500" height="auto"> |
+|:--:|
+| <b> A workshop from MLH Rep Kevin! </b>|
+| <img src="https://www.sprouthacks.ca/event/IMG_1851.JPG" width="500" height="auto"> |
+|:--:|
+| <b> React workshop! </b>|
+| <img src="https://www.sprouthacks.ca/event/IMG_1771.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Keynote from MP Mike Morrice! </b>|
+| <img src="https://www.sprouthacks.ca/event/IMG_1742.JPG" width="500" height="auto"> |
+|:--:|
+| <b> Hackers hanging out! </b>|
 
 ## What’s Next?
-- Include a high-level wrap-up summary <br>
+- SproutHacks 2025 was a first-iteration 36 hour high school hackathon by high school students, held in person at Conestoga College's Waterloo Campus. We brought together almost 80 hackers, including almost 50% first time hackers, to learn, build and have a phenomenal weekend. For our next iteration, we will learn from our shortfalls this year, particularly in the marketing and finance departments, and strive carry over the many phenomenal partnerships we made for this iteration, with organizations such as MLH and Hack Club, with sponsors, and with vendors such as Dominos Pizza. We'll also gain more flexibility in our planning process, as Conestoga is offering to move us to their brand new state of the art esports arena, allowing us to hold our event whenever we need to (probably not the first week of Ramadan), and to increase our capacity for hackers and for activties. Overall, the planning process for the first ever SproutHacks was not without its roadblocks, but with the help of sheer willpower, our MLH rep Kevin, MLH Coach Christine, and the GitHub + MLH Grant, we were able to make it a life-changing event for 75 high school students (and over a dozen high school organizers). <br>
 - What are the dates for your future hackathon? <br>
-- Twitter & Instagram handles (if applicable)  
+- Instagram: sprouthacks 
