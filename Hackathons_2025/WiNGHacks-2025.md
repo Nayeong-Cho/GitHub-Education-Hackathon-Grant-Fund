@@ -62,9 +62,9 @@
 - We want to see how great your event was
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://i1.wp.com/tecknoworks.com/wp-content/uploads/2020/01/hackathon-1.png" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/WiNGHacks_organizers.jpg" width="500" height="auto"> |
 |:--:|
-| <b> A group of hackers hanging out! </b>|
+| <b> The team! </b>|
 
 ## What’s Next?
 - We are planning to host WiNGHacks again in 2026! WiNGHacks is dedicated to increasing the number of underrepresented people in tech, and the GitHub Education Grant has been incredibly helpful
