@@ -59,9 +59,6 @@
 
 ## Event Photos
 
-- We want to see how great your event was
-- Please include pictures and/or video of your event highlights! Use the format below: 
-
 | <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/WiNGHacks_PIC1.JPG" width="500" height="auto"> |
 |:--:|
 | <b> The team! </b>|
