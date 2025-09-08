@@ -19,7 +19,7 @@
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|121|78|31 ([https://abstracthacks.devpost.com/project-gallery](https://winghacks-2025.devpost.com/))| 
+|121|78|[31](https://winghacks-2025.devpost.com/)| 
 
 ## Tech Impact / Diversity 
 
@@ -59,7 +59,7 @@
 
 ## Event Photos
 
-| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/WiNGHacks_PIC1.JPG" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/WiNGHacks_Pic1.JPG" width="500" height="auto"> |
 |:--:|
 | <b> The team! </b>|
 
