@@ -1,4 +1,4 @@
-# TechNova
+# TechNova 
 > Provide a description of your event, including but _not_ limited to: <br>
 
 Event Name: TechNova: University of Waterloo's First Gender Diverse Hackathon
@@ -104,35 +104,35 @@ The grant would significantly reduce financial barriers and help us plan a more 
 - We want to see how great your event was! <br>
 - Please include pictures and/or video of your event highlights! Use the format below: 
 
-| <img src="https://drive.google.com/file/d/1cPpVTNIZtHvJdd9-fxGk_5Rpr2Uo5zgR/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova1.JPG" width="500" height="auto"> |
 |:--:|
 | <b> A few of our organizers from our organizing team! </b>|
 
-| <img src="https://drive.google.com/file/d/1zESU2BbakM0slU7-3Nb_K6HZIJ4H-1_j/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova2.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Our first place winners! </b>|
 
-| <img src="https://drive.google.com/file/d/1-_PzOV-MWWjqgJ0XARum6nU5fEKqg3gF/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova3.JPG" width="500" height="auto"> |
 |:--:|
 | <b> MS Paint Bob Ross with MLH Workshop </b>|
 
-| <img src="https://drive.google.com/file/d/1tkOwYhQYur4WmUe6GQpODhrPZQ5n_hmF/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova4.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Some food we had at the event! </b>|
 
-| <img src="https://drive.google.com/file/d/1rx5sSFK0J-266F67_XlHMU5nc4ih21uP/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova5.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Opening ceremonies </b>|
 
-| <img src="https://drive.google.com/file/d/12hvnePAm8cXAwkAA1aIuWgBPvZfhcdS2/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova6.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Hacker registration </b>|
 
-| <img src="https://drive.google.com/file/d/195kxaBrJwALajL9854GIEPfiFvZRzeZT/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova7.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Some of our swag items - tote bags! </b>|
 
-| <img src="https://drive.google.com/file/d/1-LXy6_tXqqGP7ecIhYs2A28eq2VHptU7/view?usp=sharing" width="500" height="auto"> |
+| <img src="https://github.com/MLH/GitHub-Education-Hackathon-Grant-Fund/blob/main/Hackathons_2025/Images/TechNova8.JPG" width="500" height="auto"> |
 |:--:|
 | <b> Some more swag! </b>|
 
